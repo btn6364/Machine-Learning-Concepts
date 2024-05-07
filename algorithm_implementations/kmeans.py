@@ -98,6 +98,7 @@ class KMeans:
 
         plt.show()
 
+# TODO: Use scikit-learn to perform k_means
 
 # Testing
 if __name__ == "__main__":
